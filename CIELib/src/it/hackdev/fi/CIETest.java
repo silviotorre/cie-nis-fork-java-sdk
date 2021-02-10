@@ -49,7 +49,6 @@ public class CIETest {
 		
 		
 		
-		
 		byte[] READ_DH = new byte[] { 0x00, // CLA
 				(byte) 0xB0, // READ BINARY
 				(byte) 0x1D, // P1 1000 0001 -> Table 28 read by SFID e il 1B DH
